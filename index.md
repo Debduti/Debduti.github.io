@@ -4,7 +4,7 @@
 
 ### Python Projects 
 
-[Credit Card Fraud Transaction Analysis](Debduti/Fraud-Data-Analysis)
+[Credit Card Fraud Transaction Analysis](/Debduti/Fraud-Data-Analysis)
 <img src="images/Fraud%20Analysis1.png"/>
 
 ---
