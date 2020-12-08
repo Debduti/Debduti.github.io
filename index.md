@@ -5,7 +5,7 @@
 ### Python Projects 
 
 [Credit Card Fraud Transaction Analysis](/https://github.com/Debduti/Fraud-Data-Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Fraud%20Analysis1.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
