@@ -4,7 +4,7 @@
 
 ### Python Projects 
 
-[Project 1 Title](/sample_page)
+[Credit Card Fraud Transaction Analysis](/https://github.com/Debduti/Fraud-Data-Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
