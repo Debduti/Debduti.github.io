@@ -1,8 +1,8 @@
 title: Debduti Sengupta # your name (or website title) here
 logo: "/images/logo1.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Erstwhile software developer pivoting to a Data Science Role. I love learning new tech and creating cool personal projects using my learnings.
-  <br><a href="https://www.linkedin.com/in/debdutisengupta/"> View My LinkedIn Profile</a>
+  <br>Erstwhile software developer pivoting to a Data Science Role. I love learning new tech and creating cool personal projects using my learnings.</br>
+  <br><a href="https://www.linkedin.com/in/debdutisengupta/"> View My LinkedIn Profile</a></br>
   
   
 theme: jekyll-theme-minimal
