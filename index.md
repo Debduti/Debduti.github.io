@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://yahoo.com/)
+[Project 3 Title](https://public.tableau.com/profile/debduti.sengupta4243#!/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
